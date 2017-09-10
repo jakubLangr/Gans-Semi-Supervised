@@ -1,0 +1,1 @@
+This is a code repo accompanying the post on [my website](jakublangr.com) about Generative Adverserial Networks and Semi-Supervised Learning.
